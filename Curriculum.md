@@ -10,10 +10,10 @@ An initiative for more professionalism in software development towards mitigatin
  - Reduce software maintenance or even does not exist
  - High degree of Software Software Correctness
  - Foundation for sustainable software 
- - Saves Organiztion money  (economic efficiency) and Developer time
- - Clean Code keeps a software development project running over a long time without accumulating a large amount of technical debt
+ - Saves Organization money  (economic efficiency) and Developer time
+ - Keeps a software development project running over a long time without accumulating a large amount of technical debt
+ -  Continuous Improvement
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY0MDczNjAsLTExMDE2NDk5OTFdfQ
-==
+eyJoaXN0b3J5IjpbNTI5Njc2NDExLC0xMTAxNjQ5OTkxXX0=
 -->
