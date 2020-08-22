@@ -1,7 +1,7 @@
 
 
 
-## Welcome To Bosch Certified Clean Coding Craftsmanship Learning Path
+## Welcome To Bosch Clean Coding Craftsmanship Learning Path
 
 An initiative for more professionalism in software development towards mitigating debts
 
@@ -16,10 +16,9 @@ An initiative for more professionalism in software development towards mitigatin
  -  Continuous Improvement
 ### Curriculum Path
 -----
-### PHASE ONE
-### Readiness to become a BCCC
-
+### PHASE ONE - Readiness to become a BCCC
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTIwMTY3NDksMTcxNDAyOTg5NCwtMT
+eyJoaXN0b3J5IjpbLTE2Mzg4MDYyOTIsMTcxNDAyOTg5NCwtMT
 EwMTY0OTk5MV19
 -->
