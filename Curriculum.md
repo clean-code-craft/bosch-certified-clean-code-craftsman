@@ -7,9 +7,9 @@ An initiative for more professionalism in software development towards mitigatin
 
 ### Importance of Clean  Code
 
- - software maintenance does not exist
+ - Reduce software maintenance or even does not exist
+ - High degree of Software Software Correctness
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYwMzk1NDcsLTExMDE2NDk5OTFdfQ
-==
+eyJoaXN0b3J5IjpbMTU0NTE5OTYwNywtMTEwMTY0OTk5MV19
 -->
