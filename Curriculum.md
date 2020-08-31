@@ -3,7 +3,8 @@
 
 ## Welcome To Bosch Clean Coding Craftsmanship Learning Path
 
-An initiative for more professionalism in software development towards mitigating debts
+An initiative for more professionalism in software development towards mitigating debts. 
+> **Clean Code** is not about a platform, a technology or a coding paradigm. So you don’t need to like .NET, Java, ASP.NET, SVN or OOP to benefit from. It is all about the essence below: Code as structured expression of functionality. Considering code being the lowest common factor any software developer Clean Code describes a whole bunch of **principles and best practices**.
 
 ### Importance of Clean  Code
 ---
@@ -17,13 +18,15 @@ An initiative for more professionalism in software development towards mitigatin
 ### Curriculum Path
 -----
 ### PHASE ONE - Readiness 
-> **Clean Code** is not about a platform, a technology or a coding paradigm. So you don’t need to like .NET, Java, ASP.NET, SVN or OOP to benefit from. It is all about the essence below: Code as structured expression of functionality. Considering code being the lowest common factor any software developer Clean Code describes a whole bunch of **principles and best practices**.
-#### Minimum Requirements
- - Language Essentials
- - Language Paradigms
 
-Langauge Essentials 
+#### Minimum Requirements
+- Language Paradigms
+ - Language Essentials
+ - Ability To Code Confidently
+ 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTQzNTg0OCwtMTUxMjU1NTg0MCwtMT
+eyJoaXN0b3J5IjpbMTE1NzYyNzU0NywtMTUxMjU1NTg0MCwtMT
 YzODgwNjI5MiwxNzE0MDI5ODk0LC0xMTAxNjQ5OTkxXX0=
 -->
