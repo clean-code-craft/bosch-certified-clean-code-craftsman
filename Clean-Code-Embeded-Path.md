@@ -16,11 +16,12 @@
  -  Continuous Improvement
 ### Curriculum Path
 -----
-### PHASE ONE - Readiness to become a BCCC
+### PHASE ONE - Readiness 
 > 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA5ODIzMTYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTEwMzc5MjgwOCwtMTkwMDk4MjMxNiw3Mz
+A5OTgxMTZdfQ==
 -->
