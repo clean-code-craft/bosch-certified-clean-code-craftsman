@@ -17,8 +17,8 @@ An initiative for more professionalism in software development towards mitigatin
 ### Curriculum Path
 -----
 ### PHASE ONE - Readiness 
-> 
+> Clean Code is not about a platform, a technology or a coding paradigm. So you don’t need to like .NET, Java, ASP.NET, SVN or OOP to benefit from. It is all about the essence below: Code as structured expression of functionality. Considering code being the lowest common factor any software developer Clean Code describes a whole bunch of principles and best practices.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI1NTU4NDAsLTE2Mzg4MDYyOTIsMT
-cxNDAyOTg5NCwtMTEwMTY0OTk5MV19
+eyJoaXN0b3J5IjpbLTM2NzkxMDU2NCwtMTUxMjU1NTg0MCwtMT
+YzODgwNjI5MiwxNzE0MDI5ODk0LC0xMTAxNjQ5OTkxXX0=
 -->
