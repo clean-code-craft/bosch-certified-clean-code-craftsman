@@ -16,9 +16,9 @@ An initiative for more professionalism in software development towards mitigatin
  -  Continuous Improvement
 ### Curriculum Path
 -----
-### PHASE ONE - Readiness to become a BCCC
+### PHASE ONE - Readiness 
 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg4MDYyOTIsMTcxNDAyOTg5NCwtMT
-EwMTY0OTk5MV19
+eyJoaXN0b3J5IjpbLTE1MTI1NTU4NDAsLTE2Mzg4MDYyOTIsMT
+cxNDAyOTg5NCwtMTEwMTY0OTk5MV19
 -->
