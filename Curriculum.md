@@ -1,8 +1,8 @@
-# Bosch Clean Coding Craftsmanship Learning Path
+# Clean Coding Craftsmanship Learning Path
 
-An initiative for professionalism in software development. 
+An initiative for professionalism in software development.  Clean Code Craftsmanship (CCC) grow step by step in a system of grades.  But what if someone is interested in Clean Code Development and does not yet know how to start? What if he or she is motivated but bureaucratic hurdles are in the way.
 > **Clean Code** is not about a platform, a technology or a coding paradigm.
-It's not about .NET, Java, C++ or even OOP.
+It's not about C ,.NET, Java, C++ or even OOP.
 It is all about the essence: Code as structured expression of functionality.
 Consider code as an unambiguous representation of consumer needs.
 Clean Code is about state-of-the-art **principles and best practices**.
@@ -68,6 +68,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzYyNzU0NywtMTUxMjU1NTg0MCwtMT
-YzODgwNjI5MiwxNzE0MDI5ODk0LC0xMTAxNjQ5OTkxXX0=
+eyJoaXN0b3J5IjpbLTI1MTEzNDU5OCwxMTU3NjI3NTQ3LC0xNT
+EyNTU1ODQwLC0xNjM4ODA2MjkyLDE3MTQwMjk4OTQsLTExMDE2
+NDk5OTFdfQ==
 -->
