@@ -49,14 +49,16 @@ Clean Code is about state-of-the-art **principles and best practices**.
 	- Don’t Repeat Yourself (DRY)
 	- Keep it simple, stupid (KISS)
 	- Beware of Optimizations!
+	- Information Hiding
+	- Law of Demeter
 	- Comments
 	- Functions
 	- Name Convention
-- Mindset
+- Mindset and Practices
 	- Boy Scout Rule
 	- Lets Do it now itself
 	- Five Why’s”
-	- Simple refa
+	- Simple refactoring (extract method, rename , 
 
 ## Grade 2 - Methods
 
@@ -93,7 +95,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjA4NTY3NCwtMjUxMTM0NTk4LDExNT
-c2Mjc1NDcsLTE1MTI1NTU4NDAsLTE2Mzg4MDYyOTIsMTcxNDAy
-OTg5NCwtMTEwMTY0OTk5MV19
+eyJoaXN0b3J5IjpbNzEyOTEwNDkzLC0yNTExMzQ1OTgsMTE1Nz
+YyNzU0NywtMTUxMjU1NTg0MCwtMTYzODgwNjI5MiwxNzE0MDI5
+ODk0LC0xMTAxNjQ5OTkxXX0=
 -->
