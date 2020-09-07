@@ -79,7 +79,7 @@ Automate guardrails with coverage, complexity and duplication gating
 	- Why SOLID is Not SOLID
 - Apply IDEALS for data-flow
 - Recognize smells in code
-	- God Class , FAT interface , Brain Method , Non Comm
+	- God Class , FAT interface , Brain Method , Non Communicating Behavior etc...
 
 ### Grade 4 - Refactoring and Change management
 
@@ -102,8 +102,8 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTU2NTYwNywtMzUwMDk1OTc0LDIwOT
-Y2OTA2MTUsLTI1MTEzNDU5OCwxMTU3NjI3NTQ3LC0xNTEyNTU1
-ODQwLC0xNjM4ODA2MjkyLDE3MTQwMjk4OTQsLTExMDE2NDk5OT
-FdfQ==
+eyJoaXN0b3J5IjpbLTEzNTU5ODYxMzcsLTM1MDA5NTk3NCwyMD
+k2NjkwNjE1LC0yNTExMzQ1OTgsMTE1NzYyNzU0NywtMTUxMjU1
+NTg0MCwtMTYzODgwNjI5MiwxNzE0MDI5ODk0LC0xMTAxNjQ5OT
+kxXX0=
 -->
