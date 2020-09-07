@@ -53,7 +53,10 @@ Clean Code is about state-of-the-art **principles and best practices**.
 	- Functions
 	- Name Convention
 - Mindset
-- 
+	- Boy Scout Rule
+	- Lets Do it now itself
+	- Five Why’s”
+	- Simple refa
 
 ## Grade 2 - Methods
 
@@ -90,7 +93,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDE5MDgzNywtMjUxMTM0NTk4LDExNT
+eyJoaXN0b3J5IjpbLTQ1MjA4NTY3NCwtMjUxMTM0NTk4LDExNT
 c2Mjc1NDcsLTE1MTI1NTU4NDAsLTE2Mzg4MDYyOTIsMTcxNDAy
 OTg5NCwtMTEwMTY0OTk5MV19
 -->
