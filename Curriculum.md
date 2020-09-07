@@ -23,7 +23,11 @@ Clean Code is about state-of-the-art **principles and best practices**.
 #### Minimum Requirements
 
 - Know Language Paradigms
+	- Functional
+	- Procedural
+	- Object Oriented
 - Apply Language Essentials
+- 
 - Code Confidently
 
 ### Grade 1 - Outside-in
@@ -68,7 +72,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3MDcyNjQwLC0yNTExMzQ1OTgsMTE1Nz
+eyJoaXN0b3J5IjpbLTUwNjc4Nzg5LC0yNTExMzQ1OTgsMTE1Nz
 YyNzU0NywtMTUxMjU1NTg0MCwtMTYzODgwNjI5MiwxNzE0MDI5
 ODk0LC0xMTAxNjQ5OTkxXX0=
 -->
