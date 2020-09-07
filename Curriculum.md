@@ -27,8 +27,15 @@ Clean Code is about state-of-the-art **principles and best practices**.
 	- Procedural
 	- Object Oriented
 - Apply Language Essentials
-- 
+	- Effective C,
+	- Effective C++
+	- Effective C#
+	- Effective Java
+	- Effective JavaScript
+	- Effective Python
 - Code Confidently
+	- Able to Code without thinking much about clean code, Principles and Patterns
+	- Run for completion and say "Don"
 
 ### Grade 1 - Outside-in
 
@@ -72,7 +79,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjc4Nzg5LC0yNTExMzQ1OTgsMTE1Nz
-YyNzU0NywtMTUxMjU1NTg0MCwtMTYzODgwNjI5MiwxNzE0MDI5
-ODk0LC0xMTAxNjQ5OTkxXX0=
+eyJoaXN0b3J5IjpbLTEzMTY3MzM3MzksLTI1MTEzNDU5OCwxMT
+U3NjI3NTQ3LC0xNTEyNTU1ODQwLC0xNjM4ODA2MjkyLDE3MTQw
+Mjk4OTQsLTExMDE2NDk5OTFdfQ==
 -->
