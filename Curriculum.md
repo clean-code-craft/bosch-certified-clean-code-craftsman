@@ -65,7 +65,8 @@ Clean Code is about state-of-the-art **principles and best practices**.
 
 - Test Pyramid
 - Why unit testing is Important
-- cone or Cupca 
+- Cone or Cupcake Anti patterns
+-  Art Of Unit Testing
 - Apply a test-first approach
 - Employ tooling for efficiency:
 Automate guardrails with coverage, complexity and duplication gating
@@ -99,7 +100,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDU4OTIxNiwyMDk2NjkwNjE1LC0yNT
+eyJoaXN0b3J5IjpbLTM1MDA5NTk3NCwyMDk2NjkwNjE1LC0yNT
 ExMzQ1OTgsMTE1NzYyNzU0NywtMTUxMjU1NTg0MCwtMTYzODgw
 NjI5MiwxNzE0MDI5ODk0LC0xMTAxNjQ5OTkxXX0=
 -->
