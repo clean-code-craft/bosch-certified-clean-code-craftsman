@@ -23,9 +23,9 @@ Clean Code is about state-of-the-art **principles and best practices**.
 #### Minimum Requirements
 
 - Know Language Paradigms
-	- Functional
-	- Procedural
-	- Object Oriented
+	- Functional Oriented
+	- Procedural Oriented
+	- Object Oriented 
 - Apply Language Essentials
 	- Effective C,
 	- Effective C++
@@ -35,7 +35,9 @@ Clean Code is about state-of-the-art **principles and best practices**.
 	- Effective Python
 - Code Confidently
 	- Able to Code without thinking much about clean code, Principles and Patterns
-	- Run for completion and say "Don"
+	- Run for completion and say "Done"
+- Understand Modeling Diagrams
+	- UML 
 
 ### Grade 1 - Outside-in
 
@@ -79,7 +81,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY3MzM3MzksLTI1MTEzNDU5OCwxMT
-U3NjI3NTQ3LC0xNTEyNTU1ODQwLC0xNjM4ODA2MjkyLDE3MTQw
-Mjk4OTQsLTExMDE2NDk5OTFdfQ==
+eyJoaXN0b3J5IjpbLTc4NTYzODc4NywtMjUxMTM0NTk4LDExNT
+c2Mjc1NDcsLTE1MTI1NTU4NDAsLTE2Mzg4MDYyOTIsMTcxNDAy
+OTg5NCwtMTEwMTY0OTk5MV19
 -->
