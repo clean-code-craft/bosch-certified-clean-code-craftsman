@@ -63,6 +63,9 @@ Clean Code is about state-of-the-art **principles and best practices**.
 
 ## Grade 2 - Methods
 
+- Test Pyramid
+- Why unit testing is Important
+- cone or Cupca 
 - Apply a test-first approach
 - Employ tooling for efficiency:
 Automate guardrails with coverage, complexity and duplication gating
@@ -96,7 +99,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjY5MDYxNSwtMjUxMTM0NTk4LDExNT
-c2Mjc1NDcsLTE1MTI1NTU4NDAsLTE2Mzg4MDYyOTIsMTcxNDAy
-OTg5NCwtMTEwMTY0OTk5MV19
+eyJoaXN0b3J5IjpbLTUwMDU4OTIxNiwyMDk2NjkwNjE1LC0yNT
+ExMzQ1OTgsMTE1NzYyNzU0NywtMTUxMjU1NTg0MCwtMTYzODgw
+NjI5MiwxNzE0MDI5ODk0LC0xMTAxNjQ5OTkxXX0=
 -->
