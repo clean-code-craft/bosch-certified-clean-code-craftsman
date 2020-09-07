@@ -52,6 +52,8 @@ Clean Code is about state-of-the-art **principles and best practices**.
 	- Comments
 	- Functions
 	- Name Convention
+- Mindset
+- 
 
 ## Grade 2 - Methods
 
@@ -88,7 +90,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzIzOTQ0MSwtMjUxMTM0NTk4LDExNT
+eyJoaXN0b3J5IjpbMTA4MDE5MDgzNywtMjUxMTM0NTk4LDExNT
 c2Mjc1NDcsLTE1MTI1NTU4NDAsLTE2Mzg4MDYyOTIsMTcxNDAy
 OTg5NCwtMTEwMTY0OTk5MV19
 -->
