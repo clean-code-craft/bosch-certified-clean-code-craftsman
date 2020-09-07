@@ -45,8 +45,14 @@ Clean Code is about state-of-the-art **principles and best practices**.
 - Recognize complexity and duplication as they happen
 - Apply code-level techniques of refactoring
 - Cognize mental guardrails
+- Principles
+	- Don’t Repeat Yourself (DRY)
+	- Keep it simple, stupid (KISS)
+Beware of Optimizations!
+Comments
+Functions
 
-### Grade 2 - Methods
+## Grade 2 - Methods
 
 - Apply a test-first approach
 - Employ tooling for efficiency:
@@ -81,7 +87,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTYzODc4NywtMjUxMTM0NTk4LDExNT
+eyJoaXN0b3J5IjpbMTQ0MTgzNTYzMSwtMjUxMTM0NTk4LDExNT
 c2Mjc1NDcsLTE1MTI1NTU4NDAsLTE2Mzg4MDYyOTIsMTcxNDAy
 OTg5NCwtMTEwMTY0OTk5MV19
 -->
