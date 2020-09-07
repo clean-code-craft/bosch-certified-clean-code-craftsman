@@ -48,9 +48,10 @@ Clean Code is about state-of-the-art **principles and best practices**.
 - Principles
 	- Don’t Repeat Yourself (DRY)
 	- Keep it simple, stupid (KISS)
-Beware of Optimizations!
-Comments
-Functions
+	- Beware of Optimizations!
+	- Comments
+	- Functions
+	- Name Convention
 
 ## Grade 2 - Methods
 
@@ -87,7 +88,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTgzNTYzMSwtMjUxMTM0NTk4LDExNT
+eyJoaXN0b3J5IjpbMTQzNzIzOTQ0MSwtMjUxMTM0NTk4LDExNT
 c2Mjc1NDcsLTE1MTI1NTU4NDAsLTE2Mzg4MDYyOTIsMTcxNDAy
 OTg5NCwtMTEwMTY0OTk5MV19
 -->
