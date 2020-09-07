@@ -58,7 +58,8 @@ Clean Code is about state-of-the-art **principles and best practices**.
 	- Boy Scout Rule
 	- Lets Do it now itself
 	- Five Why’s”
-	- Simple refactoring (extract method, rename , 
+	- Simple refactoring (extract method, rename ...etc)
+	- Daily Reflection 
 
 ## Grade 2 - Methods
 
@@ -95,7 +96,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyOTEwNDkzLC0yNTExMzQ1OTgsMTE1Nz
-YyNzU0NywtMTUxMjU1NTg0MCwtMTYzODgwNjI5MiwxNzE0MDI5
-ODk0LC0xMTAxNjQ5OTkxXX0=
+eyJoaXN0b3J5IjpbMjA5NjY5MDYxNSwtMjUxMTM0NTk4LDExNT
+c2Mjc1NDcsLTE1MTI1NTU4NDAsLTE2Mzg4MDYyOTIsMTcxNDAy
+OTg5NCwtMTEwMTY0OTk5MV19
 -->
