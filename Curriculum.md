@@ -45,7 +45,7 @@ Automate guardrails with coverage, complexity and duplication gating
 - Decouple via interfaces
 - Apply SOLID for objects
 - Apply IDEALS for data-flow
-- Recignize smells in code
+- Recognize smells in code
 
 ### Grade 4 - Refactoring and Change management
 
@@ -68,7 +68,7 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTEzNDU5OCwxMTU3NjI3NTQ3LC0xNT
-EyNTU1ODQwLC0xNjM4ODA2MjkyLDE3MTQwMjk4OTQsLTExMDE2
-NDk5OTFdfQ==
+eyJoaXN0b3J5IjpbMjc3MDcyNjQwLC0yNTExMzQ1OTgsMTE1Nz
+YyNzU0NywtMTUxMjU1NTg0MCwtMTYzODgwNjI5MiwxNzE0MDI5
+ODk0LC0xMTAxNjQ5OTkxXX0=
 -->
