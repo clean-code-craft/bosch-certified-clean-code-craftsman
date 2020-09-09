@@ -61,15 +61,14 @@ Clean Code is about state-of-the-art **principles and best practices**.
 	- Simple refactoring (extract method, rename ...etc)
 	- Daily Reflection 
 -  Methods
-
-- Test Pyramid
-- Why unit testing is Important
-- Cone or Cupcake Anti patterns
--  Art Of Unit Testing
-- Apply a test-first approach
-- Employ tooling for efficiency:
-Automate guardrails with coverage, complexity and duplication gating
-- Apply a Continuous Integration strategy
+	- Test Pyramid
+	- Why unit testing is Important
+	- Cone or Cupcake Anti patterns
+	- Art Of Unit Testing
+	- Apply a test-first approach
+	- Employ tooling for efficiency:
+	- Automate guardrails with coverage, complexity and duplication gating
+	- Apply a Continuous Integration strategy
 
 ### Grade 3 - Design
 
@@ -101,8 +100,8 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTQ1OTM4LC0xMzU1OTg2MTM3LC0zNT
-AwOTU5NzQsMjA5NjY5MDYxNSwtMjUxMTM0NTk4LDExNTc2Mjc1
-NDcsLTE1MTI1NTU4NDAsLTE2Mzg4MDYyOTIsMTcxNDAyOTg5NC
-wtMTEwMTY0OTk5MV19
+eyJoaXN0b3J5IjpbLTY5OTEwNTA1NSwtMTM1NTk4NjEzNywtMz
+UwMDk1OTc0LDIwOTY2OTA2MTUsLTI1MTEzNDU5OCwxMTU3NjI3
+NTQ3LC0xNTEyNTU1ODQwLC0xNjM4ODA2MjkyLDE3MTQwMjk4OT
+QsLTExMDE2NDk5OTFdfQ==
 -->
