@@ -70,7 +70,8 @@ Clean Code is about state-of-the-art **principles and best practices**.
 	- Automate guardrails with coverage, complexity and duplication gating
 	- Apply a Continuous Integration strategy
 
-### Grade 3 - Design
+>Entry Level Test
+### Grade 2- Design
 
 - Decouple via interfaces
 - Apply SOLID for objects
@@ -79,7 +80,8 @@ Clean Code is about state-of-the-art **principles and best practices**.
 - Recognize smells in code
 	- God Class , FAT interface , Brain Method , Non Communicating Behavior etc...
 
-### Grade 4 - Refactoring and Change management
+
+### Grade 3 - Refactoring and Change management
 
 - Practice by habit: small actions to shift mindset
 - Control debt in legacy code
@@ -100,7 +102,7 @@ Clean Code is about state-of-the-art **principles and best practices**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTEwNTA1NSwtMTM1NTk4NjEzNywtMz
+eyJoaXN0b3J5IjpbLTk0NTkzNzU2NywtMTM1NTk4NjEzNywtMz
 UwMDk1OTc0LDIwOTY2OTA2MTUsLTI1MTEzNDU5OCwxMTU3NjI3
 NTQ3LC0xNTEyNTU1ODQwLC0xNjM4ODA2MjkyLDE3MTQwMjk4OT
 QsLTExMDE2NDk5OTFdfQ==
