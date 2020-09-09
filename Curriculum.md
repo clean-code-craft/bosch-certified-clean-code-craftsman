@@ -60,8 +60,7 @@ Clean Code is about state-of-the-art **principles and best practices**.
 	- Five Why’s”
 	- Simple refactoring (extract method, rename ...etc)
 	- Daily Reflection 
-
-## Grade 2 - Methods
+-  Methods
 
 - Test Pyramid
 - Why unit testing is Important
@@ -102,8 +101,8 @@ Automate guardrails with coverage, complexity and duplication gating
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTU5ODYxMzcsLTM1MDA5NTk3NCwyMD
-k2NjkwNjE1LC0yNTExMzQ1OTgsMTE1NzYyNzU0NywtMTUxMjU1
-NTg0MCwtMTYzODgwNjI5MiwxNzE0MDI5ODk0LC0xMTAxNjQ5OT
-kxXX0=
+eyJoaXN0b3J5IjpbMjA2NTQ1OTM4LC0xMzU1OTg2MTM3LC0zNT
+AwOTU5NzQsMjA5NjY5MDYxNSwtMjUxMTM0NTk4LDExNTc2Mjc1
+NDcsLTE1MTI1NTU4NDAsLTE2Mzg4MDYyOTIsMTcxNDAyOTg5NC
+wtMTEwMTY0OTk5MV19
 -->
